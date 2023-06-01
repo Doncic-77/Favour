@@ -1,2 +1,2 @@
 # Favour
-2022-2023ICPC Team
+2023-2024 ICPC Team
