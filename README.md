@@ -37,6 +37,7 @@
 |  The 2023ICPC China Shaanxi Provincial Programming Contest   | 2023.5.21 | 5/91   | (7)7/10    | ○    |      | ×    |      | ○    | ○    | ○    |      | ○    | ○    | ○    | -    | -    |
 
 
+
 # nostalgia
 
 ## 2019
@@ -66,3 +67,40 @@ I 爆搜
 J 签到
 
 K 签到
+
+
+
+
+
+## 2020
+
+### ICPC
+
+#### 南京
+
+A 蛇皮袋鼠构造
+
+B 防ak
+
+C ds蛇皮枚举？
+
+D 随机？
+
+E 签到
+
+F 签到
+
+G 点双？
+
+H 签到
+
+I 物理场景幻想题 后续未知？？？
+
+J sgbt？
+
+K 签到
+
+L 签到
+
+M 签到
+
